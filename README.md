@@ -28,6 +28,8 @@
 - [网络攻防虚拟场景构建技术的研究与实现_刘若琳.caj](https://github.com/xue8/book/blob/master/虚拟化/网络攻防虚拟场景构建技术的研究与实现_刘若琳.caj)
 - [面向租户的云计算软件定义网络流量测量与性能分析_张鹏飞.caj](https://github.com/xue8/book/blob/master/虚拟化/面向租户的云计算软件定义网络流量测量与性能分析_张鹏飞.caj)
 - [面向微服务架构的容器云平台设计与实现_于泽萍.caj](https://github.com/xue8/book/blob/master/虚拟化/面向微服务架构的容器云平台设计与实现_于泽萍.caj)
+- [基于Docker的容器集群管理平台的研究与实现_张城城](https://github.com/xue8/book/blob/master/虚拟化/基于Docker的容器集群管理平台的研究与实现_张城城.caj)
+- [基于容器技术的私有云平台的设计与实现_肖帆](https://github.com/xue8/book/blob/master/虚拟化/基于容器技术的私有云平台的设计与实现_肖帆.caj)
 
 ## SDN
 
@@ -42,7 +44,7 @@
 
 [基于OpenFlow的软件定义网络缓存加速系统的研究与实现_俞淑妍](https://github.com/xue8/book/blob/master/SDN/基于OpenFlow的软件定义网络缓存加速系统的研究与实现_俞淑妍.caj)
 
-[基于sdn的网络虚拟化的研究与应用_曲福](https://github.com/xue8/book/blob/master/SDN/基于sdn的网络虚拟化的研究与应用_曲福.caj)
+[基于sdn的网络虚拟化的研究与应用_曲福](https://github.com/xue8/book/blob/master/SDN/基于NetMagic平台的Ope_省略_vSwitch交换机的设计与实现_凌高源.caj)
 
 ## 系统架构
 
