@@ -36,6 +36,14 @@
 - [SDN体系结构_付志英](https://github.com/xue8/book/blob/master/SDN/SDN体系结构_付志英.pdf)
 - [基于SDN的云计算网络_李建新](https://github.com/xue8/book/blob/master/SDN/基于SDN的云计算网络_李建新.pdf)
 
+### 论文
+
+[基于NetMagic平台的Ope_省略_vSwitch交换机的设计与实现_凌高源](https://github.com/xue8/book/blob/master/SDN/基于NetMagic平台的Ope_省略_vSwitch交换机的设计与实现_凌高源.caj)
+
+[基于OpenFlow的软件定义网络缓存加速系统的研究与实现_俞淑妍](https://github.com/xue8/book/blob/master/SDN/基于OpenFlow的软件定义网络缓存加速系统的研究与实现_俞淑妍.caj)
+
+[基于sdn的网络虚拟化的研究与应用_曲福](https://github.com/xue8/book/blob/master/SDN/基于sdn的网络虚拟化的研究与应用_曲福.caj)
+
 ## 系统架构
 
 - [熊猫直播技术架构演进](https://github.com/xue8/book/blob/master/系统架构/pandaTV-system.md)
