@@ -29,7 +29,12 @@
 - [面向租户的云计算软件定义网络流量测量与性能分析_张鹏飞.caj](https://github.com/xue8/book/blob/master/虚拟化/面向租户的云计算软件定义网络流量测量与性能分析_张鹏飞.caj)
 - [面向微服务架构的容器云平台设计与实现_于泽萍.caj](https://github.com/xue8/book/blob/master/虚拟化/面向微服务架构的容器云平台设计与实现_于泽萍.caj)
 
+## SDN
 
+### 期刊
+
+- [SDN体系结构_付志英](https://github.com/xue8/book/blob/master/SDN/SDN体系结构_付志英.pdf)
+- [基于SDN的云计算网络_李建新](https://github.com/xue8/book/blob/master/SDN/基于SDN的云计算网络_李建新.pdf)
 
 ## 系统架构
 
