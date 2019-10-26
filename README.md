@@ -46,6 +46,10 @@
 
 [基于sdn的网络虚拟化的研究与应用_曲福](https://github.com/xue8/book/blob/master/SDN/基于NetMagic平台的Ope_省略_vSwitch交换机的设计与实现_凌高源.caj)
 
+## K8S
+
+- [Kubernetes中文指南/云原生应用架构实践手册](https://github.com/rootsongjc/kubernetes-handbook)
+
 ## 系统架构
 
 - [熊猫直播技术架构演进](https://github.com/xue8/book/blob/master/系统架构/pandaTV-system.md)
