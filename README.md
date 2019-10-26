@@ -49,6 +49,7 @@
 ## K8S
 
 - [Kubernetes中文指南/云原生应用架构实践手册](https://github.com/rootsongjc/kubernetes-handbook)
+- [kubernetes 官方文档](https://kubernetes.io/zh/docs/concepts/)
 
 ## 系统架构
 
